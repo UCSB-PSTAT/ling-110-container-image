@@ -1,2 +1,2 @@
-printf "Welcome to the course!"
+printf "Welcome to the course, $JUPYTERHUB_USER!\n"
 printf 'Please run \033[1mling110\033[0m in terminal to check your assignment status\n'
