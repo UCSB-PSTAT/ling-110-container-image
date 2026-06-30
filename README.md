@@ -1,2 +1,2 @@
 # Container image source for ling-110
-This image can be obtained from dockerhub.io
+The latest version of this image can be obtained by running `podman pull ucsb/ling-110:latest`
